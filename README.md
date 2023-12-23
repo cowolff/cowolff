@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Cornelius Wolff</h2>
 <img align='right' src="images/MeWorkingDallE.png" width="300">
-<p><em>Junior Researcher at the <a href="https://www.dfki.de/en/web">German Research Centre for AI</a></br>Research Assistant at <a href="https://www.thoughtworks.com">Institute of Cognitive Science Osnabrück</a></br>Writing my master thesis at <a href="https://eliabruni.github.io/">Lab of Prof. Elia Bruni</a>
+<p><em>Junior Researcher at the <a href="https://www.dfki.de/en/web">German Research Centre for AI</a></br>Research Assistant at <a href="https://ikw.uni-osnabrueck.de/en/home.html">Institute of Cognitive Science Osnabrück</a></br>Writing my master thesis at <a href="https://eliabruni.github.io/">Lab of Prof. Elia Bruni</a>
 </em></p>
 
 ## Life
