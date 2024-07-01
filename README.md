@@ -1,8 +1,9 @@
 
 <h2> Hi, I'm Cornelius Wolff</h2>
 <img align='right' src="images/MeWorkingDallE.png" width="300">
-<p><em>Junior Researcher at the <a href="https://www.dfki.de/en/web">German Research Centre for AI</a></br>Research Assistant at <a href="https://ikw.uni-osnabrueck.de/en/home.html">Institute of Cognitive Science Osnabrück</a></br>Writing my master thesis at <a href="https://eliabruni.github.io/">Lab of Prof. Elia Bruni</a>
-</em></p>
+<p><em>Junior Researcher at the <a href="https://www.dfki.de/en/web">German Research Centre for AI</a></br>Research Assistant at <a href="https://ikw.uni-osnabrueck.de/en/home.html">Institute of Cognitive Science Osnabrück</a></br>Writing my master thesis at <a href="https://eliabruni.github.io/">Lab of Prof. Elia Bruni</a><br/>Developing little AI tools such as the <a href="https://ailluminator.com/">AI/lluminator</a> science tracker in my free time</em></p>
+<br/>
+<p><em> <a href="https://scholar.google.com/citations?user=Y8xr0JgAAAAJ">My Google Scholar Feed</a></em></p>
 
 ## Life
 - Grew up all over the place in Germany
