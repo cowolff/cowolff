@@ -14,8 +14,6 @@
 - Junior Researcher at the DFKI
 
 ## My GitHub Stats
-![](https://komarev.com/ghpvc/?username=cowolff&label=Profile%20Visits&color=blue&style=for-the-badge)
-</br>
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cowolff&show_icons=true)
 
 ## Connect with me:
