@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Cornelius Wolff</h2>
 <img align='right' src="images/MeWorkingDallE.png" width="300">
-<p><em>Junior Researcher at the <a href="https://www.dfki.de/en/web" target="_blank">German Research Centre for AI</a></br>Research Assistant at <a href="https://ikw.uni-osnabrueck.de/en/home.html" target="_blank">Institute of Cognitive Science Osnabrück</a></br>Writing my master thesis at <a href="https://eliabruni.github.io/" target="_blank">Lab of Prof. Elia Bruni</a><br/>Developing little AI tools such as the <a href="https://ailluminator.com/" target="_blank">AI/lluminator</a> science tracker in my free time<br/>Member of the <a href="https://musslick.github.io/AER_website/" target="_blank"> Autonomous Empirical Research Group</a></em></p>
+<p><em>Junior Researcher at the <a href="https://www.dfki.de/en/web" target="_blank">German Research Centre for AI</a></br>Research Assistant at <a href="https://ikw.uni-osnabrueck.de/en/home.html" target="_blank">Institute of Cognitive Science Osnabrück</a> and founder of the EBIMAS study project within the <a href="https://microcosm.ai/teaching-courses/" target="_blank">Microcosm project</a></br>Writing my master thesis at <a href="https://eliabruni.github.io/" target="_blank">Lab of Prof. Elia Bruni</a><br/>Developing little AI tools such as the <a href="https://ailluminator.com/" target="_blank">AI/lluminator</a> science tracker in my free time<br/>Member of the <a href="https://musslick.github.io/AER_website/" target="_blank"> Autonomous Empirical Research Group</a></em></p>
 <br/>
 <p><em> <a href="https://scholar.google.com/citations?user=Y8xr0JgAAAAJ" target="_blank">My Google Scholar Feed</a></em></p>
 
