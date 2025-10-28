@@ -15,9 +15,6 @@
 - Master in Cognitive Science
 - Junior Researcher at the DFKI
 
-## My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cowolff&show_icons=true)
-
 ## Connect with me:
 
 [![Twitter: corneIius_wolff](https://img.shields.io/twitter/follow/corneIius_wolff?style=social)](https://twitter.com/corneIius_wolff)
